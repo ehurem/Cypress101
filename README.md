@@ -1,2 +1,2 @@
-# Cypress101 - pocetak
-emir - novi commit uno duo
+# Cypress101 - početak
+emir - novi commit uno duo Amar Kalem
